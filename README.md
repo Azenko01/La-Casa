@@ -4,7 +4,7 @@ La Casa is a modern restaurant landing page designed to showcase a restaurant’
 The website focuses on clean design, strong visual presentation, and a user-friendly layout suitable for restaurants and food businesses.
 
 ## 🚀 Live Demo
-https://v0-la-casa-restaurant-website.vercel.app/
+
 
 ## 📌 Features
 - Modern and elegant restaurant landing page
