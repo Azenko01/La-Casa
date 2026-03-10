@@ -14,9 +14,9 @@ The website focuses on clean design, strong visual presentation, and a user-frie
 - Responsive layout for desktop and mobile devices
 - Clean and minimal user interface
 
-## 🛠️ Technologies Used
-- HTML5
-- CSS3
+## 🛠️ Tech Stack
+- TypeScript
+- CSS
 - JavaScript
 
 ## 🎯 Project Purpose
